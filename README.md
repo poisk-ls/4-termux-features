@@ -1,5 +1,15 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+termux-hidden-features+☣️)
 
+### Installation Packages:
+- pkg update
+- pkg upgrade
+- git clone https://github.com/poisk-ls/termux-hidden-features
+- cd termux-hidden-features
+- ls
+- chmod +x install sh
+- ./install.sh
+
+
 ##
 ### cmatrix
 - pkg install cmatrix -y
