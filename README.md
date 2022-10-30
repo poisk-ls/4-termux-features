@@ -1,4 +1,5 @@
-# 4-termux-features
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+4-termux-features+☣️)
+
 
 ### cmatrix
 - pkg install cmatrix -y
@@ -12,8 +13,7 @@
 ### sl
 - pkg install sl -y
 
-**COMMAND**
-
+### **COMMAND**
 id |Type this Command | Usage | Close |
 --|--|--|--|
 1 |`cmatrix` | `cmatrix -h` | `ctrl + z`|
