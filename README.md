@@ -12,6 +12,8 @@
 
 ### sl
 - pkg install sl -y
+### cowsay
+- pkg install cowsay -y
 ##
 ### **COMMAND**
 id |Type this Command | Usage | Close |
@@ -20,7 +22,7 @@ id |Type this Command | Usage | Close |
 2 |`cacafire` | `none` | `ESC`|
 3 |`telnet mapscii.me` | `←↑↓→` | `ctrl + c`|
 4 |`sl` | `none` | `none`|
-
+5 | `cowsay`| `any text` | `none`|
 ##
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
